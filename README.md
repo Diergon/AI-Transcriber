@@ -50,3 +50,6 @@ npm run dev
 Desarrollado y mantenido por Diego David Valarezo Luna.
 
 Generado para optimización de tiempos en reuniones de desarrollo y planificación.
+
+para levantar el backend: npx nodemon index.js
+para levantar el frontedn: npm run dev
